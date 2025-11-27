@@ -1,0 +1,14 @@
+{
+  "id": "LA3IZPOj4AWA9qce",
+  "name": "OpenRouter",
+  "type": "openRouterApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "team",
+    "teamId": "fKqphthMmUyBZXrT",
+    "teamName": "My Fantastic Project"
+  },
+  "isGlobal": false
+}
