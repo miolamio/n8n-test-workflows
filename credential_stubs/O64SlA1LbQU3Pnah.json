@@ -1,0 +1,15 @@
+{
+  "id": "O64SlA1LbQU3Pnah",
+  "name": "OpenAi account",
+  "type": "openAiApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "kt3rjdFE4VQpjFou",
+    "projectName": "Anthony Vdovitchenko <anthony@nerve.ai>",
+    "personalEmail": "anthony@nerve.ai"
+  },
+  "isGlobal": false
+}

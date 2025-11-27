@@ -1,0 +1,16 @@
+{
+  "id": "fKqphthMmUyBZXrT",
+  "name": "My Fantastic Project",
+  "icon": {
+    "type": "icon",
+    "value": "layers"
+  },
+  "description": "",
+  "type": "team",
+  "owner": {
+    "type": "team",
+    "teamId": "fKqphthMmUyBZXrT",
+    "teamName": "My Fantastic Project"
+  },
+  "variableStubs": []
+}
