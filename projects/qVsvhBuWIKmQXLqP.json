@@ -1,0 +1,23 @@
+{
+  "id": "qVsvhBuWIKmQXLqP",
+  "name": "Project",
+  "icon": {
+    "type": "icon",
+    "value": "layers"
+  },
+  "description": "",
+  "type": "team",
+  "owner": {
+    "type": "team",
+    "teamId": "qVsvhBuWIKmQXLqP",
+    "teamName": "Project"
+  },
+  "variableStubs": [
+    {
+      "id": "kZ8fcXJ6RErEuneX",
+      "key": "project_name",
+      "type": "string",
+      "value": ""
+    }
+  ]
+}

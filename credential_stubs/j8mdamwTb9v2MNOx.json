@@ -1,0 +1,14 @@
+{
+  "id": "j8mdamwTb9v2MNOx",
+  "name": "Project1 OpenRouter",
+  "type": "openRouterApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "team",
+    "teamId": "qVsvhBuWIKmQXLqP",
+    "teamName": "Project"
+  },
+  "isGlobal": false
+}
